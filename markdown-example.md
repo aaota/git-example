@@ -41,3 +41,12 @@ The actual numbering doesn't matter:
 - 456
 - 067
 - 199
+
+## Names of Squid Game Players
++ Seong Gi-hun (456)
++ Jang Sae-byeok (067)
++ Ali Abdul (199)
++ Oh Il-nam (001)
++ Cho Sang-woo (218)
++ Han Mi-nyeo (212)
++ Jang Deok-su (101)
